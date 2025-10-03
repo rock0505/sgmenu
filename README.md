@@ -92,5 +92,4 @@ Returns:
  ['Exit', ['Exit & Save', 'Exit']]]
  
 Parameters:text (str): A menu definition string that uses indentation to indicate hierarchy.
-Returns:
-    list: A PySimpleGUI-compatible menu data structure.
+Returns: list: A PySimpleGUI-compatible menu data structure.
