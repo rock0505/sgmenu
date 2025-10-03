@@ -1,5 +1,4 @@
 # sgmenu
-Convert string definitions into a PySimpleGUI menu structure by analyzing leading indentation.
 Convert a string definition into a PySimpleGUI menu structure by analyzing the indentation at the beginning of lines.Format:- Each line represents a menu item.- Use space indentation (recommend 4 spaces per level) to indicate hierarchy.- Any '#' at the beginning or end of a line and the content following it are considered comments and ignored.- 
 Example:
 '''
